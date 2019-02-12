@@ -1,2 +1,2 @@
-# jobs
+# Jobs
 Job openings at EWF.
