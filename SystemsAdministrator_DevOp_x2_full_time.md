@@ -1,6 +1,6 @@
 # (Senior) Systems Administrator / DevOp
 
-The [Energy Web Foundation (EWF)](https://energyweb.org/) is seeking two full-time Systems Administrators to join the Energy Web Foundation’s core technology team at the EWF devhub in Berlin, who also wants to get his / her hands dirty on some additional tasks related to our chain.. 
+The [Energy Web Foundation (EWF)](https://energyweb.org/) is seeking two full-time Systems Administrators to join the Energy Web Foundation’s core technology team at the EWF devhub in Berlin, who also wants to get his / her hands dirty on some additional tasks related to our chain.
 
 At EWF, we believe that blockchain can facilitate a rapid transition away from centralized electricity generation towards distributed and renewable energy. EWF is focused on creating the single largest, most used, most scalable, and most regulatory-compliant blockchain for the energy sector. We have already made amazing progress, launching a test network and initial reference application and recruiting 100+ energy companies and application developers as affiliates. 
 
